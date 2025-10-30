@@ -1,0 +1,31 @@
+name: 🌀 Auto Update README
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' # اجرا هر 6 ساعت
+  workflow_dispatch: # قابل اجرا به صورت دستی
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Update "Last updated" line
+        run: |
+          echo "🕒 Last updated on $(date '+%Y-%m-%d %H:%M:%S')" > updated.txt
+          cat README.md > temp.md
+          echo "" >> temp.md
+          cat updated.txt >> temp.md
+          mv temp.md README.md
+
+      - name: Commit & Push changes
+        run: |
+          git config --global user.name "SajjadR17"
+          git config --global user.email "roohandehsredi6@gmail.com"
+          git add README.md
+          git commit -m "Auto updated README ⏱"
+          git push
+          
