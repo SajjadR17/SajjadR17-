@@ -1,3 +1,6 @@
+![Last Updated](https://img.shields.io/github/last-commit/SajjadR17/SajjadR17?label=Last%20updated&style=for-the-badge&color=blue)
+
+
 <h1 align="center">👋 Hi, I'm Sajjad Roohandeh</h1>
 
 <p align="center">
