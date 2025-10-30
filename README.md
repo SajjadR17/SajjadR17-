@@ -10,5 +10,9 @@
 
 ---
 
-> “Don’t tell me it’s impossible.”
-> 
+“Don’t tell me it’s impossible.”
+
+---
+
+🎯 *Thanks for visiting my profile! Feel free to connect and collaborate.*  
+
