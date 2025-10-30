@@ -67,3 +67,26 @@
 ---
 
 ⭐️ *If you like my projects, don’t forget to star them and follow me for updates!*
+
+---
+
+## 🌟 Featured Projects
+
+<p align="center">
+  <a href="https://sajjadr17.github.io/My-New-Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio%20Website-%2300C4CC.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Website" />
+  </a>
+  
+  <a href="https://github.com/SajjadR17/Restaurant-Menu" target="_blank">
+    <img src="https://img.shields.io/badge/Restaurant%20Menu-%23FF9800.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="Restaurant Menu" />
+  </a>
+  
+  <a href="https://github.com/SajjadR17/ToDo-App" target="_blank">
+    <img src="https://img.shields.io/badge/ToDo%20List-%23007ACC.svg?&style=for-the-badge&logo=javascript&logoColor=white" alt="ToDo App" />
+  </a>
+  
+  <a href="https://github.com/SajjadR17/JS-Projects" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript%20Projects-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Projects" />
+  </a>
+</p>
+
